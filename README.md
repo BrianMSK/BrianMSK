@@ -4,7 +4,7 @@
 
 ### About my geekyness
 
-- 🔭 I’m currently working on [SwissBot](https://swissbot.eu), Final Exam Project & New eBot panel. 
+- 🔭 I’m currently working on [SwissBot](https://swissbot.eu), [Final Exam Project](https://github.com/BrianMSK/zmaturuj.me) & [New eBot panel](https://ebot.swissbot.eu). 
 - 🌱 I’m currently learning PHP & SQL.
 - 🎈 I would like to learn JavaScript, TypeScripts, Node.js & other JS platforms & frameworks.
 - 💬 Ask me anything on my e-mail [uhrikdenis@gmail.com](mailto:uhrikdenis@gmail.com)
