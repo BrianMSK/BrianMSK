@@ -10,4 +10,4 @@
 - 💬 Ask me anything on my e-mail [uhrikdenis@gmail.com](mailto:uhrikdenis@gmail.com)
 - 📫 You can also checkout my [LinkTree](https://linktr.ee/denisuhrik) 
 - ⚡ Fun facts: I like to watch [Netflix](https://netflix.com) & [Youtube](https://youtube.com), I took some photos on my cheap DSLR few years ago, privacy is important for me and I like to play CS:GO.
-- 📚 Sometimes I create WordPress websites. [WiseAcc](https://wiseacc.com.au), [Daniel Design][https://danieldesign.sk], [HRAPA](https://hrapa.sk), [ATZA](https://atza.sk) & others that vanished 👻.
+- 📚 Sometimes I create WordPress websites. [WiseAcc](https://wiseacc.com.au), [Daniel Design](https://danieldesign.sk), [HRAPA](https://hrapa.sk), [ATZA](https://atza.sk) & others that vanished 👻.
