@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis Uhrík</h1>
-<h3 align="center">An IT student on high-school developing his exam project and trying to get better. I am from Slovakia, I live in a small village Kotešová and I write some code for my projects and school. I work in esports industry as referee. I write articles at <a href="eplayer.sk" target="_blank">Eplayer</a>.</h3>
+<h3 align="center">Student of computer & economic science @ FRI UNIZA. I am from Slovakia, I live in a small village Kotešová and I write some code for my projects and school. I work in esports industry as referee. I write articles at <a href="eplayer.sk" target="_blank">Eplayer</a>. And I volunteer for Komunita Zastavme Korupciu</h3>
 
 <h3 align="center">About my geekyness</h3>
 
